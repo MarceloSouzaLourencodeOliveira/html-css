@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h1#principal {
+    text-align: right;
+    background-color: lawngreen;
+    color: crimson;
+}
+
+.basico {
+    text-align: center;
+    color: blueviolet;
+}
+
+.intermediario {
+    background-color: violet;
+}
+
+.avancado {
+    color: tomato;
+}
